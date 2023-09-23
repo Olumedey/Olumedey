@@ -1,4 +1,4 @@
-- Hi, I’m @Olumedey,
+- Hi I'm Mide,
 - I am an experienced Data Scientist and Business Analyst with a Bachelors in Industrial Engineering from Ryerson University
 - I have been fortunate to use my process and data analytics competencies to aid business development, optimize operations, and build agile solutions
 - Through work and personal projects, I have been able to build proficiencies in:
