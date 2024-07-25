@@ -6,9 +6,9 @@
   - **BI Tool Proficiencies:** `Google Analytics 4`, `Adobe Analytics`, `Excel (Pivot-tables, VBA, Macros)`, Big-Data/Hadoop Ecosystem (Hive/PIG/Spark), HTML, Python (`Pandas`, `SciKit Learn`, `Numpy`, `SQLAlchemy`, `Scipy`, `request`, `Matplotlib`), R (`Dplyr`, `tidyverse`), `SAS Base Programming 9+`, SQL (`MySQL`, `BigQuery`, `MSSQL`), Tableau, PowerBI, Visio
 - I am currently building my curiosity in Machine Learning (NLP, AI) and basic front-end capabilities (CSS style sheets) to support accurate and efficient analytics solutions
 
-E: olumedey@gmail.com
-L: LinkedIn/in/oafolami
-T: +1(647)-980-5595
+- E: olumedey@gmail.com
+- L: LinkedIn/in/oafolami
+- T: +1(647)-980-5595
 
 <!---
 Olumedey/Olumedey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
