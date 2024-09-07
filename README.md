@@ -8,7 +8,6 @@
 
 - E: olumedey@gmail.com
 - L: LinkedIn/in/oafolami
-- T: +1(647)-980-5595
 
 <!---
 Olumedey/Olumedey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
