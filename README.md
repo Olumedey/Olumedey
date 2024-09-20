@@ -4,7 +4,7 @@
 - Through work and personal projects, I have been able to build proficiencies in:
   - **Statistics and Processes:** A/B Tests, Agile PDLC, Budgeting and Forecasting, Campaign Management, Inventory and Fulfillment Management, Inferential Statistics, Descriptive Statistics, Requirements Gathering/Analysis, Marketing Analysis, User Acceptance Testing, Risk Analysis, Supply-Chain Analysis
   - **BI Tool Proficiencies:** `Google Analytics 4`, `Adobe Analytics`, `Excel (Pivot-tables, VBA, Macros)`, Big-Data/Hadoop Ecosystem (Hive/PIG/PySpark), Python (`Pandas`, `SciKit Learn`, `Numpy`, `SQLAlchemy`, `Scipy`, `request`, `Matplotlib`), R (`Dplyr`, `tidyverse`), `SAS Base Programming 9+`, SQL (`MySQL`, `BigQuery`, `MSSQL`), Tableau, PowerBI, Visio
-- Currently expanding practical Machine Learning and AI applications to solve business problems.
+- Currently expanding my knowledge of practical Machine Learning and AI applications to solve business problems.
 
 - E: olumedey@gmail.com
 - L: LinkedIn/in/oafolami
